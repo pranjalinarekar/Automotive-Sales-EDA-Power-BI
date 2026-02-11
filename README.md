@@ -1,4 +1,4 @@
-# 🚗 Automobile Sales Overview – Power BI Dashboard
+# 🚗 Automotive Sales Overview – Power BI Dashboard
 
 ## 📌 Project Overview
 This project presents an interactive **Power BI dashboard** designed to analyze automobile sales data and deliver meaningful business insights. The dashboard focuses on sales performance, profitability, dealer efficiency, and product-level analysis to support data-driven decision-making in the automotive domain.
